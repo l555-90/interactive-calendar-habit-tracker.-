@@ -1,0 +1,4 @@
+install --wsl
+cd "/mnt/c/Users/User I55-90/OneDrive/Desktop/vscode/habit tracker home"
+gcc habit.c -o tracker -lncurses
+    ./tracker
